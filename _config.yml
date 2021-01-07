@@ -1,3 +1,5 @@
 theme: jekyll-theme-dinky
 title: Hey there, Welcome to Nikita's homepage!
 description: Feel free to bookmark this to keep an eye on my latest amazing projects ;)
+plugins:
+  - jemoji
