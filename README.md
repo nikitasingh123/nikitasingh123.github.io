@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## WELCOME TO MY WEBSITE
 
-You can use the [editor on GitHub](https://github.com/nikitasingh123/nikitasingh123.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, I'm Nikita Singh, a final year undergraduate in Electrical Engineering at IIT Kanpur. My interests spans across software development, machine learning, data science and quantitative fields.
+I like to solve various social problems through the use of technology. I am an open source developer and have developed various web applications and tools. I am also proficient in competitive coding and have a good hold on the data structures and algorithms concepts.
+Recently, I have started exploring the field of data science and machine learning applications. I am currently doing some open source projects based on ML and deep learning. 
 
-### Markdown
+But hey I am not just a geek. I love to play table tennis and badminton. I am also interested in painting, reading interesting novels, cooking and interior decor. I also love spending time with nature and travelling to cool places. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nikitasingh123/nikitasingh123.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
